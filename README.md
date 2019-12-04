@@ -33,3 +33,5 @@ c. Type in a description of the project | c. Type a new branch name (README-edit
 d. Make sure your repository is public | d. Select the <span style="color:blue">blue</span> Create branch box.
 e. Initialize the repository with a README |
 f. Select create | 
+
+![Cool Stuff!](https://github.com/Stix003/Data-481/blob/master/coolstuff.jpg)
